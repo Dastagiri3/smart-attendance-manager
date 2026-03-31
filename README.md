@@ -2,7 +2,7 @@
 
 A modern Smart Attendance Management System built with a clean UI and powerful frontend architecture using React, TypeScript, and Vite.
 
-🔗 Live Demo: https://ai-smart-attendance-phi.vercel.app
+🔗 Live Demo: https://smart-attendance-manager-gamma.vercel.app/
 
 🔗 GitHub Repo: https://github.com/Kondaiah29/smart-attendance-manager
 
