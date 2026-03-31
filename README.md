@@ -4,7 +4,7 @@ A modern Smart Attendance Management System built with a clean UI and powerful f
 
 🔗 Live Demo: https://ai-smart-attendance-phi.vercel.app
 
-🔗 GitHub Repo: https://github.com/Dastagiri3/smart-attendance-manager
+🔗 GitHub Repo: https://github.com/Kondaiah29/smart-attendance-manager
 
 🚀 Overview
 
